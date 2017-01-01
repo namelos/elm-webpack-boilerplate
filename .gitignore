@@ -1,0 +1,13 @@
+# elm
+elm-stuff
+repl-temp-*
+
+# node
+*.log
+node_modules
+
+# build
+dist
+
+# intellij
+.idea
